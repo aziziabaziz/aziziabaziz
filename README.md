@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aziziabaziz
+- 👋 Hi, I’m @azizi ab aziz (call me Azizi)
 - 👀 I’m interested in machine learning, computational cognitive modeling, and artificial intelligence
 - 🌱 I’m currently learning cognitive robotics
 - 💞️ I’m looking to collaborate on artificial intelligence and social sciences
